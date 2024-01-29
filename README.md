@@ -7,6 +7,11 @@ Cotação de moedas é uma aplicação que foi criada com o intuito de treinamen
 
 A aplicação consiste em cotar o valor do dólar, euro e bitcoin em tempo real com os dados coletados de uma API.
 
+# Como executar:
+No terminal:
+- Clone o projeto: git clone github.com/matheusthierri/cotacao_moedas
+- Vá até a pasta do projeto e execute com: python cotacao_moedas.py
+
 ## Tela Principal
 ![tela principal](https://github.com/MatheusThierri/cotacao_moedas/assets/51425198/e1528c73-ab0b-4da4-8ff1-c224af0e1c45)
 
